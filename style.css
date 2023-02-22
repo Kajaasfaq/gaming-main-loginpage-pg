@@ -642,10 +642,10 @@
 
  .change-box4{
   position: absolute;
-  top: 300px;
+  top: 270px;
   left: 750px;
   background-color: #eae3e3;
-  height: 150px;
+  height: 190px;
   width: 390px;
   border-radius: 10px;
  }
@@ -680,6 +680,11 @@
   top: 20px;
   cursor: pointer;
  }
+.online4{
+    color:  #999999;
+    padding: 0 12px;
+    font-size: 17px;
+  }
 
 #online4{
   color:  #999999;
@@ -688,6 +693,12 @@
 }
 
 #online5{
+  color:  #999999;
+  padding: 0 12px;
+  font-size: 17px;
+}
+
+#online6{
   color:  #999999;
   padding: 0 12px;
   font-size: 17px;
@@ -704,6 +715,13 @@
   padding: 0 320px;
   position: absolute;
   top: 115px;
+  font-size: 15px;
+}
+
+#mon6{
+  padding: 0 320px;
+  position: absolute;
+  top: 150px;
   font-size: 15px;
 }
 

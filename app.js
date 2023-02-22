@@ -25,13 +25,10 @@
         ]
     // }
     // monthly()
-    if(yerC === oddNumber()){
-        console.log(yerC) 
-    } else{
-        console.log(monC)
-    }
-     
-    function oddNumber(){
-       
-    }
+}
+
+// var add = document.getElementById("all-checkadd").addEventListener("click", ass )
+
+function sim(){
+       document.getElementById("online4").textContent = "online";
 }
